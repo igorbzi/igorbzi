@@ -1,5 +1,5 @@
 ### Olá, meu nome é Igor 👋
-- 📖 <strong>Graduando em Ciência da computação</strong> na <strong>UFFS-Chapecó/SC</strong>.
+- 📖 Graduando em Ciência da computação na UFFS-Chapecó/SC.
 - 🚩 Gosto de resolver problemas. 
 - 📚 
 - 👨‍💻 
@@ -13,8 +13,7 @@
   <a href="#"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a> 
 </div> -->
 <div style="display: flex; flex-wrap: no-wrap;">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=igorbzi&theme=blue-green" style="height: 200px"/></a> 
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorbzi&theme=blue-green" style="height: 200px"/></a> 
+  [![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=igorbzi)](https://github.com/igorbzi/github-readme-stats)
 </div>
 <br>
 <!-- <div>
